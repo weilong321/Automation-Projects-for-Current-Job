@@ -3,5 +3,3 @@
 *.sql linguist-language=sql
 
 *.sql text
-
-*.ipynb linguist-language=
